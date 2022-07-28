@@ -1,4 +1,4 @@
-🌈 Welcome to the Starter Kit - For Crowdfunding dApp
+# 🌈 Welcome to the Starter Kit - For Crowdfunding dApp
 
 
 ## To install dependencies
