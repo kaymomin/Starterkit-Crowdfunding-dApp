@@ -3,11 +3,11 @@
 
 ## To install dependencies
 
-`npm install` or `yarn install`
+`yarn install`
 
 ## To run the project locally
 
-`npm run dev` or `yarn dev`
+`yarn dev`
 
 ## Full Code
 
